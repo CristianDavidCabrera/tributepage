@@ -39,14 +39,16 @@ img {
     background: white;
 }
 #headline {
-    margin-top: 2rem;
+    max-width: 550px;
+    margin: 0 auto;
     text-align: left;
+    background-color: #f7f5f0;
 }
 
 ul {
     display: inline-table;
     max-width: 550px;
-    margin: 0 auto;
+    margin: 1rem auto;
     text-align: left;
     background-color: #f7f5f0;
 }
@@ -60,4 +62,5 @@ li {
     background-repeat: no-repeat;
     background-size: cover; 
     border: 2px solid black;
+    padding: 1rem;
 }
