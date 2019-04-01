@@ -14,7 +14,7 @@ Otros proyectos te darán la oportunidad de trabajar con diferentes tecnologías
 Aceptaremos e intentaremos solucionar todos los informes de problemas que utilizan las tecnologías sugeridas para este proyecto. ¡Feliz codificación!
 
 #Historia de Usuario #1:
-Mi página de tributo debe tener un elemento principla con un id="main", que contiene todos los demás elementos.
+Mi página de tributo debe tener un elemento principal con un id="main", que contiene todos los demás elementos.
 
 #Historia de Usuario #2:
 Debería ver un elemento con un id="title", que contiene una cadena (es decir, texto) que describe el tema de la página del tributo (por ejemplo, "Dr. Norman Borlaug").
@@ -23,7 +23,7 @@ Debería ver un elemento con un id="title", que contiene una cadena (es decir, t
 Debería ver un elemento div con un id="img-div".
 
 #Historia de usuario #4:
-Dentro del elemento img-div, debería ver un elemento img con un id="imagen".
+Dentro del elemento img-div, debería ver un elemento img con un id="image".
 
 #Historia de Usuario #5:
 Dentro del elemento img-div, debería ver un elemento con un id="img-caption" que contiene contenido textual que describe la imagen que se muestra en img-div.
