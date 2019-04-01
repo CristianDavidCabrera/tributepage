@@ -12,3 +12,52 @@ body {
     color: #222;
     background: #f7f5f0;
 }
+
+#main {
+    margin:30px auto;
+    padding:15px;
+    border:0px solid;
+    border-radius:5px;
+    background:#f7f5f0;
+}
+
+#img-caption{
+    margin:1.2rem;
+  }
+
+img {
+    max-width: 100%; 
+    display: block; 
+    height: auto;
+    margin: auto;
+}
+
+#img-div {
+    margin-top: 2rem;
+    width: 100%;
+    border: 2px solid black;
+    background: white;
+}
+#headline {
+    margin-top: 2rem;
+    text-align: left;
+}
+
+ul {
+    display: inline-table;
+    max-width: 550px;
+    margin: 0 auto;
+    text-align: left;
+    background-color: #f7f5f0;
+}
+
+li {
+    margin: 1.2rem;
+}
+
+#tribute-info {
+    background-image: url("/images/picture4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    border: 2px solid black;
+}
