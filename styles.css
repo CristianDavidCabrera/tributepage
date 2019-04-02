@@ -44,6 +44,7 @@ img {
     margin: 0 auto;
     text-align: center;
     background-color: #f7f5f0;
+    border: 2px solid black;
 }
 
 ul {
@@ -52,6 +53,7 @@ ul {
     margin: 1rem auto;
     text-align: left;
     background-color: #f7f5f0;
+    border: 2px solid black;
 }
 
 li {
