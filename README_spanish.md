@@ -61,3 +61,5 @@ Recuerda usar el método de lectura-búsqueda-pregunta si te atascas.
 [Chrome DevTools - Editar estilos](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/edit-styles)
 
 [Chrome DevTools - Editar el DOM](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/edit-dom)
+
+[Codepen - Freecodecamp Tests](https://codepen.io/Cristian1985/pen/XQbxRZ)
