@@ -21,8 +21,9 @@ body {
     background:#f7f5f0;
 }
 
-#img-caption{
-    margin:1.2rem;
+#img-caption {
+    margin: 1.2rem;
+    padding-bottom: 1rem;;
   }
 
 img {
@@ -30,12 +31,13 @@ img {
     display: block; 
     height: auto;
     margin: auto;
+    border: 2px solid black;
 }
 
 #img-div {
     margin-top: 2rem;
     width: 100%;
-    border: 2px solid black;
+   /*  border: 2px solid black; */
     background: white;
 }
 #headline {
