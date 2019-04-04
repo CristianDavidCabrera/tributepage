@@ -22,8 +22,8 @@ body {
 }
 
 #img-caption {
-    margin: 1.2rem;
-    padding-bottom: 1rem;;
+    padding: 1.2rem 0;
+    background: #f7f5f0;
   }
 
 img {
